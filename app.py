@@ -12,9 +12,9 @@ import requests
 
 
 # Token provided by @ BotFather
-TOKEN = 'TOKEN' 
+TOKEN = '6944382445:AAFbpr_gCqapAIvC6MSgnpe-fAT4QSYK_Ps' 
 # Your Heroku App Page 
-APP_NAME = 'https://XXXX.herokuapp.com/'
+APP_NAME = 'https://codbot-3c68b65cd17c.herokuapp.com//'
 # Port
 PORT = int(os.environ.get('PORT', '8443'))
 
