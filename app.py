@@ -1,4 +1,3 @@
-# .\venv\Scripts\activate
 import logging
 import os
 from telegram import ReplyKeyboardMarkup, ReplyKeyboardRemove, Update
